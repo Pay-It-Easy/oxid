@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="Pay_It_Easy_id">
+            <SUBMENU id="Pay_It_Easy_configuration" cl="Pay_It_Easy_configuration"></SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>

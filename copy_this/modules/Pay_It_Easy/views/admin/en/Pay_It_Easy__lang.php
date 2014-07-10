@@ -1,0 +1,53 @@
+<?php
+$sLangName  = "Deutsch";
+$aLang = array(
+		'charset' => 'UTF-8'
+		,'Pay_It_Easy_id' => 'Pay It Easy'
+		,'Pay_It_Easy_configuration' => 'Configuration'
+		,'PIETITLE' => 'Pay It Easy config'
+		,'PIEUPDATE_SETUP' => 'Save'
+		,'PIEPAYMENT_METHOD_CC' => 'Pay It Easy credit card'
+		,'PIEPAYMENT_METHOD_DD' => 'Pay It Easy direct debit'
+		,'PIEPAYMENT_METHOD_GP' => 'Pay It Easy giropay'
+		,'PIEPAYMENT_METHOD_PP' => 'Pay It Easy PayPal'
+		,'PIEINSTALL_PAYMENTS' => 'Install payments'
+		,'PIESECRET_TITLE' => 'MAC-Key'
+		,'PIESSLMERCHANT_TITLE' => 'Merchant ID'
+		,'PIEYES' => 'Yes'
+		,'PIENO' => 'No'
+		,'PIEDEBUG' => 'Debug mode'
+		,'PIEDEBUG_FILE_PATH_TITLE' => 'Logfile'
+		,'PIENOTIFICATIONFAILEDURL_TITLE' =>'Notification URL'
+		,'PIETITLE_BASE' => 'Pay It Easy Basis'
+		,'PIETITLE_CC' => 'Pay It Easy credit card'
+		,'PIETITLE_DD' => 'Pay It Easy direct debit'
+		,'PIETITLE_GP' => 'Pay It Easy giropay'
+		,'PIETITLE_PP' => 'Pay It Easy PayPal'
+		,'PIEDEBUG_TITLE' => 'Log transactions'
+		,'PIECSSURL_TITLE' => 'CSS-url'
+		,'PIESTATUS_TITLE' => 'activate payment mothed'
+		,'PIEDEBUG_FILE_PATH_TITLE ' =>'Log file'
+		,'PIEAUTOCAPTURE_TITLE' => 'Autocapture'
+		,'PIEACCEPTCOUNTRIES_TITLE' => 'Accepted countries'
+		,'PIECOUNTRYREJECTMESSAGE' => ''
+		,'PIEDELIVERYCOUNTRY_ACTION_TITLE' => 'Action for delivery country'
+		,'PIEDELIVERYCOUNTRY_REJECT_MESSAGE' => ''
+		,'PIEFORM_MERCHANTNAME_TITLE' => 'Merchant name'
+		,'PIEFORM_MERCHANTREF_TITLE' => 'Transaction reference'
+		,'PIEMERCHANTREF_TITLE' => 'Transaction reference'
+		,'PIEPAYMENT_OPTIONS_TITLE' => 'Payment options'
+		,'PIEPAYMENT_OPTIONS_TITLE_GP' => ' Age verification'
+		,'PIEREJECTCOUNTRIES_TITLE' => 'Rejected countries'
+		,'PIETEST_MODE_TITLE' => 'Test mode'
+		,'PIETRANSACTIONTYPE_TITLE' => 'Transactiontype'
+		,'PIETEXT_TITLE' => 'Text'
+ 		,'PIELABEL_TITLE' => 'Label'
+ 		,'PIEMANDAT_NAME_TITLE'=>'Mandat name'
+ 		,'PIEMANDAT_PREFIX_TITLE'=>'Mandat prefix'
+ 		,'PIESEQUENCETYPE_TITLE'=>'Sequence type'
+
+);
+
+
+
+
